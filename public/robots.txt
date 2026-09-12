@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taniksehrawat.vercel.app/sitemap.xml
