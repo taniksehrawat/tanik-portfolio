@@ -1,7 +1,7 @@
 // src/app/sitemap.ts
 import type { MetadataRoute } from "next";
 
-const SITE_URL = "https://taniksehrawat.vercel.app"; // update after deploy
+const SITE_URL = "https://tanik-portfolio-dun.vercel.app"; // update after deploy
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [

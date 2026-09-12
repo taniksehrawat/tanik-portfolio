@@ -22,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 // NOTE: after you deploy (Phase 16), replace this URL with your real one.
-const SITE_URL = "https://taniksehrawat.vercel.app";
+const SITE_URL = "https://tanik-portfolio-dun.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

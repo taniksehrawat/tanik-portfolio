@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taniksehrawat.vercel.app/sitemap.xml
+Sitemap: https://tanik-portfolio-dun.vercel.app/sitemap.xml
